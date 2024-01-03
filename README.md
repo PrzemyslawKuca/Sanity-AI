@@ -30,9 +30,11 @@ To get started with this project:
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies using `npm install`.
 3. Create a .env file in the root directory of the project.
-   `SANITY_STUDIO_OPENAI_API_KEY=your_openai_api_key_here`
-4. Start the development server with `npm run dev`.
-5. Navigate to http://localhost:3333 to view the application.
+   ```
+   SANITY_STUDIO_OPENAI_API_KEY=your_openai_api_key_here
+   ```
+5. Start the development server with `npm run dev`.
+6. Navigate to http://localhost:3333 to view the application.
 
 ## Usage
 
